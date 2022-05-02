@@ -1,0 +1,6 @@
+**/.vscode/
+.vscode/
+*.code-workspace
+*.pyc
+*.bag
+**/build
